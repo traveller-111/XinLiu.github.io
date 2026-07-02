@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xin Liu's Academic Pages"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
