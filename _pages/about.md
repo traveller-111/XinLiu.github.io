@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [Beijing University of Aeronautics and Astronautics].My research interest includes computer vision, satellite navigation, real-time kinematic position, SNN, quant&prune technology.
+I'm a third year undergraduate student from [Beijing University of Aeronautics and Astronautics](https://www.buaa.edu.cn/).My research interest includes computer vision, satellite navigation, real-time kinematic position, SNN, quant&prune technology.
